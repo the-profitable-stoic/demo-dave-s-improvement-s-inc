@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-dave-s-improvement-s-inc.dream-surge.com/sitemap-index.xml

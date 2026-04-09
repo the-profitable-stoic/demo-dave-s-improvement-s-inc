@@ -1,0 +1,556 @@
+{
+  "business": {
+    "name": "Dave's Improvement's Inc",
+    "phone": "+13163122177",
+    "category": "painting contractor",
+    "city": "Wichita",
+    "state": "KS"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Wichita's Trusted Painting Professionals",
+      "heroSubline": "Dave's Improvements Inc. delivers quality painting services throughout Wichita. From historic homes to modern offices, we handle it all.",
+      "aboutTitle": "Decades of Dedication to Wichita Painting",
+      "aboutText": [
+        "Dave's Improvements Inc. started with a simple mission: to provide Wichita residents with reliable, high-quality painting services. For over a decade, we've grown from a small team to a trusted name in the community, always staying true to our roots.",
+        "Our approach is simple: meticulous preparation, skilled execution, and clear communication. We believe in doing the job right the first time, using premium materials and proven techniques to ensure lasting results. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We're proud to be a part of the Wichita community. We support local initiatives and strive to contribute positively to the city's growth and beauty, one brushstroke at a time. We understand the unique challenges of Wichita's climate and housing styles, allowing us to deliver tailored solutions."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team brings years of experience to every project, ensuring top-quality workmanship."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the finest paints and coatings, designed to withstand Wichita's harsh weather."
+        },
+        {
+          "title": "Detailed Preparation",
+          "description": "We meticulously prepare surfaces to guarantee a smooth, long-lasting finish."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to exceeding your expectations and ensuring your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free estimate for your painting project. Call us at +13163122177"
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your interior spaces with our expert painting services.",
+        "description": "Our interior painting services are designed to revitalize your home or business. We start with a thorough assessment of your space, taking into account the existing conditions and your desired aesthetic. Our team meticulously prepares surfaces by patching holes, sanding imperfections, and applying primer to ensure a smooth and even finish. We use premium paints that are durable, washable, and resistant to fading, providing long-lasting beauty. \n\n We understand the importance of minimizing disruption to your daily life, so we work efficiently and respectfully, protecting your furniture and belongings. Whether you're looking to refresh a single room or repaint your entire interior, we'll deliver exceptional results that exceed your expectations. We consider the unique lighting and architectural features of Wichita homes to achieve the perfect ambiance.\n\n From selecting the right colors to applying the final coat, we pay attention to every detail. We offer a wide range of colors and finishes to suit your style and preferences. Our experienced painters are skilled in various techniques, including brush, roller, and spray applications, ensuring a flawless finish every time. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Consultation and color selection",
+          "Step 2: Surface preparation (cleaning, patching, sanding)",
+          "Step 3: Priming",
+          "Step 4: Application of paint (two coats minimum)",
+          "Step 5: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Enhances the beauty and value of your home",
+          "Protects your walls from damage",
+          "Creates a fresh and inviting atmosphere",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting typically take?",
+            "answer": "The duration depends on the size and complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move my furniture?",
+            "answer": "We recommend removing small items. We'll cover and protect larger furniture to minimize disruption."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use premium-quality paints from trusted brands, specifically chosen for their durability and finish. We offer a variety of finishes including matte, eggshell, satin, and semi-gloss."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home's exterior with our professional painting services.",
+        "description": "Wichita's climate can be tough on exterior paint. Our exterior painting services are designed to withstand the harsh weather conditions, including extreme temperatures, strong winds, and heavy rainfall. We begin with a thorough inspection of your home's exterior, identifying any areas that need repair or special attention. Our team meticulously prepares surfaces by power washing, scraping loose paint, and priming bare wood to ensure optimal adhesion and longevity. \n\nWe use high-quality exterior paints that are specifically formulated to resist fading, cracking, and peeling. Our experienced painters are skilled in applying paint evenly and efficiently, providing a durable and beautiful finish. We understand the importance of curb appeal, and we'll work with you to choose the perfect colors and finishes to enhance your home's architectural style. \n\nWhether you have a historic home in College Hill or a modern house in a newer development, we have the expertise to handle any exterior painting project. We also ensure proper cleanup and disposal of materials, leaving your property looking its best. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Power washing to remove dirt and mildew",
+          "Step 2: Scraping loose paint and sanding rough surfaces",
+          "Step 3: Priming bare wood or metal",
+          "Step 4: Applying two coats of exterior paint",
+          "Step 5: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Protects your home from the elements",
+          "Enhances curb appeal and property value",
+          "Extends the lifespan of your siding",
+          "Provides a fresh and updated look"
+        ],
+        "faq": [
+          {
+            "question": "How often should I paint my home's exterior?",
+            "answer": "Typically, every 5-10 years, depending on the climate and the quality of the existing paint."
+          },
+          {
+            "question": "Do you offer color consultations?",
+            "answer": "Yes, we can help you choose the perfect colors to complement your home's style and neighborhood."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, we are fully licensed and insured for your protection and peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-refinishing",
+        "name": "Cabinet Refinishing",
+        "shortDescription": "Give your kitchen or bathroom a fresh, new look with our cabinet refinishing services.",
+        "description": "Instead of replacing your cabinets, consider refinishing them for a cost-effective and eco-friendly solution. Dave's Improvements Inc. offers expert cabinet refinishing services that can transform your kitchen or bathroom without the expense and hassle of a full remodel. We start by thoroughly cleaning and sanding your cabinets to remove any old finishes and imperfections. We then apply a high-quality primer to ensure proper adhesion and a smooth, even finish. \n\nWe offer a wide range of colors and finishes to suit your style and preferences, from classic whites and neutrals to bold and modern hues. Our skilled painters use professional-grade equipment and techniques to achieve a flawless finish that will last for years to come. We can also replace hardware, such as knobs and pulls, to further enhance the look of your cabinets. \n\nCabinet refinishing is a great way to update your home without breaking the bank. It's also a more sustainable option, as it reduces waste and conserves resources. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Remove doors and drawers",
+          "Step 2: Clean and degrease cabinet surfaces",
+          "Step 3: Sand to create a smooth surface",
+          "Step 4: Apply primer",
+          "Step 5: Apply two coats of paint or stain",
+          "Step 6: Reinstall doors and drawers"
+        ],
+        "benefits": [
+          "Cost-effective alternative to cabinet replacement",
+          "Environmentally friendly",
+          "Updates the look of your kitchen or bathroom",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet refinishing take?",
+            "answer": "Typically, 3-5 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Can you match my existing cabinet color?",
+            "answer": "Yes, we can custom-match any color to ensure a seamless look."
+          },
+          {
+            "question": "What type of paint do you use for cabinets?",
+            "answer": "We use durable, moisture-resistant paints specifically designed for cabinets."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Seamless drywall repair services to fix holes, cracks, and water damage.",
+        "description": "From accidental dings to water damage, drywall can suffer a variety of issues. Dave's Improvements Inc. offers professional drywall repair services to restore your walls and ceilings to their original condition. We start by assessing the damage and determining the best course of action. Our skilled technicians carefully patch holes, fill cracks, and repair water damage, ensuring a seamless and invisible repair. \n\nWe use high-quality materials and techniques to ensure a long-lasting and durable repair. We also pay attention to detail, matching the texture and finish of your existing walls to create a smooth and uniform surface. Whether you have a small patch or a large repair, we have the expertise to handle any drywall project. \n\nWe understand the importance of a smooth and flawless finish, and we're committed to providing exceptional customer service and ensuring your complete satisfaction. We can also repair any water damage from Wichita's occasional severe storms.",
+        "process": [
+          "Step 1: Assess the damage",
+          "Step 2: Cut out damaged drywall",
+          "Step 3: Install new drywall",
+          "Step 4: Apply joint compound (mud)",
+          "Step 5: Sand smooth",
+          "Step 6: Prime and paint"
+        ],
+        "benefits": [
+          "Restores the appearance of your walls and ceilings",
+          "Prevents further damage",
+          "Increases property value",
+          "Creates a smooth and uniform surface"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost depends on the size and complexity of the repair. We'll provide a free estimate after assessing the damage."
+          },
+          {
+            "question": "Can you match the texture of my existing walls?",
+            "answer": "Yes, we can match any texture to ensure a seamless repair."
+          },
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "Typically, 1-3 days, depending on the size and complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-painting",
+        "name": "Commercial Painting",
+        "shortDescription": "Professional commercial painting services for businesses in Wichita and surrounding areas.",
+        "description": "Dave's Improvements Inc. understands the unique needs of commercial painting projects. We offer comprehensive commercial painting services for businesses of all sizes, from small offices to large industrial facilities. We work closely with our clients to develop a customized painting plan that meets their specific needs and budget. We understand the importance of minimizing disruption to your business operations, so we work efficiently and flexibly to complete projects on time and within budget. \n\nOur experienced painters are skilled in applying a variety of coatings, including epoxy coatings, industrial coatings, and specialty finishes. We use high-quality paints and materials that are durable, long-lasting, and resistant to wear and tear. We can also handle any necessary repairs, such as drywall repair and carpentry work. \n\nWhether you're looking to refresh your office space, update your retail store, or protect your industrial facility, we have the expertise to deliver exceptional results. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Consultation and project planning",
+          "Step 2: Surface preparation (cleaning, patching, sanding)",
+          "Step 3: Application of primer",
+          "Step 4: Application of paint or coating",
+          "Step 5: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Enhances the appearance of your business",
+          "Creates a professional and inviting atmosphere",
+          "Protects your building from damage",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours or weekend painting services?",
+            "answer": "Yes, we can work around your schedule to minimize disruption to your business."
+          },
+          {
+            "question": "Are you insured for commercial projects?",
+            "answer": "Yes, we are fully insured for commercial projects."
+          },
+          {
+            "question": "What types of businesses do you serve?",
+            "answer": "We serve a wide range of businesses, including offices, retail stores, restaurants, and industrial facilities."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Preserve & beautify your deck with expert staining and sealing services.",
+        "description": "Wichita's weather can wreak havoc on wood decks. Dave's Improvements Inc. provides deck staining and sealing services to protect your investment and keep your deck looking its best. We begin with a thorough cleaning of your deck to remove dirt, mildew, and old finishes. We then apply a high-quality stain or sealant that will protect the wood from moisture, UV rays, and insect damage. \n\nWe offer a wide range of colors and finishes to suit your style and preferences. Our experienced technicians are skilled in applying stain and sealant evenly and efficiently, ensuring a long-lasting and beautiful finish. We can also repair any necessary repairs, such as replacing damaged boards and tightening loose screws. \n\nDeck staining and sealing is an essential part of deck maintenance. It helps to prolong the life of your deck and keep it looking its best for years to come. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Clean the deck thoroughly",
+          "Step 2: Sand rough surfaces",
+          "Step 3: Apply stain or sealant",
+          "Step 4: Allow to dry completely",
+          "Step 5: Apply a second coat (if necessary)"
+        ],
+        "benefits": [
+          "Protects your deck from the elements",
+          "Enhances the beauty of your outdoor space",
+          "Extends the lifespan of your deck",
+          "Prevents rot and decay"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "Typically, every 1-3 years, depending on the weather conditions and the type of wood."
+          },
+          {
+            "question": "What type of stain or sealant should I use?",
+            "answer": "We can help you choose the best product for your specific needs and preferences."
+          },
+          {
+            "question": "Do you offer deck repair services?",
+            "answer": "Yes, we can repair any necessary repairs before staining or sealing your deck."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Wichita",
+        "slug": "wichita-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. is proud to offer our comprehensive painting services to the residents and businesses of Wichita, Kansas. As a locally owned and operated company, we understand the unique needs of our community and are committed to providing high-quality workmanship and exceptional customer service. Whether you're looking to refresh the interior of your home, update the exterior of your business, or add a touch of color to your commercial space, our team of experienced painters is here to help. \n\nWe use only the finest paints and materials to ensure a long-lasting and beautiful finish. Our services include interior and exterior painting, drywall repair, power washing, and deck staining. We take pride in our attention to detail and our commitment to exceeding our clients' expectations. Contact Dave's Improvements Inc. today for a free estimate and let us transform your space.",
+        "localContext": "Wichita, the Heart of the Heartland, offers a vibrant mix of culture, industry, and Midwestern charm, making it a great place to live and work.",
+        "nearbyAreas": [
+          "Andover",
+          "Derby",
+          "Haysville"
+        ]
+      },
+      {
+        "city": "Andover",
+        "slug": "andover-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. extends its professional painting services to Andover, KS. We are dedicated to providing the highest quality painting solutions for both residential and commercial properties in Andover. Our expertise covers everything from detailed interior work to robust exterior applications, ensuring lasting beauty and protection for your investment.\n\nWe understand the specific needs of Andover homeowners and business owners. Our team works closely with each client to understand their vision and deliver exceptional results. We pride ourselves on our meticulous preparation, skilled application, and thorough cleanup, ensuring a seamless and stress-free experience.",
+        "localContext": "Andover is known for its excellent schools and family-friendly environment, making it a desirable place to live in the Wichita metropolitan area.",
+        "nearbyAreas": [
+          "Wichita",
+          "Augusta",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Derby",
+        "slug": "derby-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. is pleased to serve the Derby, Kansas community with top-notch painting services. We understand the importance of a well-maintained property and are committed to providing exceptional results that enhance the beauty and value of your home or business. Our team of skilled painters is equipped to handle any project, big or small.\n\nFrom color consultations to surface preparation and final coat application, we pay attention to every detail. We use only premium paints and materials to ensure a durable and long-lasting finish. We take pride in our professionalism, reliability, and commitment to customer satisfaction. Let Dave's Improvements Inc. help you transform your space into a place you'll love.",
+        "localContext": "Derby offers a blend of small-town charm and modern amenities, making it a popular suburb of Wichita.",
+        "nearbyAreas": [
+          "Wichita",
+          "Mulvane",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Haysville",
+        "slug": "haysville-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. brings its expertise in painting to Haysville, Kansas. We are committed to delivering superior painting services to homeowners and businesses in Haysville and the surrounding areas. Our team of experienced painters is dedicated to providing exceptional craftsmanship and outstanding customer service.\n\nWe offer a wide range of painting services, including interior and exterior painting, drywall repair, and deck staining. We use only the highest quality paints and materials to ensure a long-lasting and beautiful finish. We work closely with our clients to understand their needs and preferences, and we are committed to exceeding their expectations. Contact Dave's Improvements Inc. today for a free consultation.",
+        "localContext": "Haysville is a growing community with a strong sense of community pride, located just south of Wichita.",
+        "nearbyAreas": [
+          "Wichita",
+          "Clearwater",
+          "Mulvane"
+        ]
+      },
+      {
+        "city": "Goddard",
+        "slug": "goddard-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. proudly serves the Goddard, Kansas area with professional painting services. We understand the importance of a well-maintained property and are dedicated to providing top-quality workmanship and exceptional customer service. Whether you need interior painting, exterior painting, or any other painting-related service, our team is here to help.\n\nWe use only the best paints and materials to ensure a lasting and beautiful finish. Our experienced painters are skilled in all aspects of painting, from surface preparation to final coat application. We take pride in our attention to detail and our commitment to exceeding our clients' expectations. Contact Dave's Improvements Inc. today for a free estimate.",
+        "localContext": "Goddard is a thriving community known for its excellent schools and family-friendly atmosphere, located west of Wichita.",
+        "nearbyAreas": [
+          "Wichita",
+          "Andale",
+          "Garden Plain"
+        ]
+      },
+      {
+        "city": "Maize",
+        "slug": "maize-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. provides professional painting services to the Maize, Kansas area. We are committed to delivering high-quality workmanship and exceptional customer service to homeowners and businesses in Maize and the surrounding communities. Our team of experienced painters is equipped to handle any project, big or small.\n\nWe offer a comprehensive range of painting services, including interior and exterior painting, drywall repair, and power washing. We use only premium paints and materials to ensure a durable and beautiful finish. We take pride in our attention to detail and our commitment to customer satisfaction. Let Dave's Improvements Inc. help you enhance the beauty and value of your property.",
+        "localContext": "Maize is a growing city known for its strong community and quality of life, situated northwest of Wichita.",
+        "nearbyAreas": [
+          "Wichita",
+          "Colwich",
+          "Goddard"
+        ]
+      },
+      {
+        "city": "Park City",
+        "slug": "park-city-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. is dedicated to providing top-notch painting services to the residents and businesses of Park City, Kansas. We understand the importance of maintaining a beautiful and well-protected property, and we are committed to delivering exceptional results that exceed your expectations. Our skilled team of painters is equipped to handle any project, big or small.\n\nFrom detailed interior work to durable exterior coatings, we use only the highest quality paints and materials to ensure a long-lasting and visually appealing finish. We take pride in our attention to detail and our commitment to customer satisfaction. Contact Dave's Improvements Inc. today for a free estimate and let us transform your space.",
+        "localContext": "Park City is a vibrant community with a strong sense of identity, located just north of Wichita.",
+        "nearbyAreas": [
+          "Valley Center",
+          "Wichita",
+          "Kechi"
+        ]
+      },
+      {
+        "city": "Valley Center",
+        "slug": "valley-center-ks",
+        "state": "KS",
+        "content": "Dave's Improvements Inc. is proud to offer professional painting services to the Valley Center, Kansas community. We are committed to providing high-quality workmanship and exceptional customer service to homeowners and businesses in Valley Center and the surrounding areas. Our team of experienced painters is dedicated to delivering outstanding results that enhance the beauty and value of your property.\n\nWe offer a wide range of painting services, including interior and exterior painting, drywall repair, and deck staining. We use only premium paints and materials to ensure a durable and long-lasting finish. We work closely with our clients to understand their needs and preferences, and we are committed to exceeding their expectations. Contact Dave's Improvements Inc. today for a free consultation.",
+        "localContext": "Valley Center is a friendly community known for its small-town charm and strong sense of community spirit, located north of Wichita.",
+        "nearbyAreas": [
+          "Park City",
+          "Kechi",
+          "Bentley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Dave's Improvements Inc. did an amazing job painting our living room and hallway. The team was professional, efficient, and paid close attention to detail. They prepped the walls perfectly, and the paint job is flawless. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired Dave's Improvements Inc. to paint our house in Riverside, and we're very happy with the results. The crew was punctual and worked hard to get the job done quickly. There was one minor spot they missed, but they came back the next day to fix it immediately. Great service!",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Cabinet Refinishing",
+        "text": "Our kitchen cabinets were looking dated, but we didn't want to spend a fortune on new ones. Dave's Improvements Inc. refinished them beautifully! They look brand new, and the price was very reasonable. Highly recommend their cabinet refinishing services.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "We had a large hole in our drywall from a water leak. Dave's Improvements Inc. repaired it seamlessly. You can't even tell there was ever a hole there. Their drywall repair skills are top-notch.",
+        "date": "2025-02-05"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Commercial Painting",
+        "text": "Dave's Improvements Inc. painted our office space downtown. They were very professional and accommodating, working around our schedule to minimize disruption. The paint job is excellent, and our office looks much brighter and more inviting.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 5,
+        "service": "Deck Staining & Sealing",
+        "text": "Dave's Improvements Inc. did a fantastic job staining and sealing our deck. They power washed it thoroughly and applied the stain evenly. Our deck looks brand new and is now protected from the elements. Highly recommend!",
+        "date": "2025-03-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dave's Improvements Inc. | Wichita, KS",
+        "description": "Trusted painting contractor in Wichita, KS. Interior, exterior, cabinet refinishing, drywall repair & more. Free estimates!"
+      },
+      "about": {
+        "title": "About Dave's Improvements Inc.",
+        "description": "Learn about Dave's Improvements Inc., Wichita's leading painting contractor. Experienced, reliable, and committed to quality craftsmanship."
+      },
+      "services": {
+        "title": "Painting Services | Wichita, KS",
+        "description": "Comprehensive painting services in Wichita, KS. Interior, exterior, cabinet refinishing, drywall repair, commercial painting, deck staining."
+      },
+      "contact": {
+        "title": "Contact Dave's Improvements Inc.",
+        "description": "Contact Dave's Improvements Inc. for a free estimate on your painting project in Wichita, KS. Call +13163122177 today!"
+      },
+      "reviews": {
+        "title": "Dave's Improvements Inc. Reviews",
+        "description": "Read reviews from satisfied customers of Dave's Improvements Inc. in Wichita, KS. See why we're the trusted choice for painting services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Wichita Painting",
+        "description": "Dave's Improvements Inc. provides painting services in Wichita, KS and surrounding areas. Find out if we serve your community."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-refinishing": "/images/service-cabinet-refinishing.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "commercial-painting": "/images/service-commercial-painting.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-refinishing": {
+        "src": "/images/service-cabinet-refinishing.webp",
+        "srcset": "/images/service-cabinet-refinishing-400w.webp 400w, /images/service-cabinet-refinishing-800w.webp 800w, /images/service-cabinet-refinishing-1200w.webp 1200w, /images/service-cabinet-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-painting": {
+        "src": "/images/service-commercial-painting.webp",
+        "srcset": "/images/service-commercial-painting-400w.webp 400w, /images/service-commercial-painting-800w.webp 800w, /images/service-commercial-painting-1200w.webp 1200w, /images/service-commercial-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
